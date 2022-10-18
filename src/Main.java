@@ -3,6 +3,8 @@ import java.util.List;
 import java.util.Scanner;
 
 public class Main {
+    // dit helpt
+
 
     public static void main(String[] args) {
         Scanner speler_A = new Scanner(System.in);
